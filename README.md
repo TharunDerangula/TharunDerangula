@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tharun Derangula</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunderangula&label=Profile%20views&color=0e75b6&style=flat" alt="tharunderangula" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharunderangula&label=Profile%20views&color=0e75b6&style=flat" alt="tharunderangula" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharunderangula" alt="tharunderangula" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharunderangula" alt="tharunderangula" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
