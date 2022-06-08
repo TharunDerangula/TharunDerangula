@@ -1,4 +1,3 @@
-[![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 <h1 align="center">Hi 👋, I'm Tharun Derangula</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunderangula&label=Profile%20views&color=0e75b6&style=flat" alt="tharunderangula" /> </p>
